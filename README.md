@@ -25,3 +25,6 @@ Realizar actividadesde seguimiento de un mascota (identificandola por el microch
 .Chat box por el cual el usuario puede ser guiado para realizar las actividades de seguimiento.
 -Las actividades de seguimiento  hechas por una mascota deben quedar registradas para  poder asociarlas a futuras consultas.
 -El chatbox  debe  redireccionar al usuario a un agente al soporte al ciudadano en caso de que quiera hacer reclamos, dudas, comentarios o sugerencias.
+-La capacidad de que los funcionarios puedan ver el historico de regitros de las mascotas (y su informacion detallada)
+-La capacidad de que los funcionario puedan ver el historico de las actividades de seguimiento de todos las mascotas
+-La capacidad de que los funcionarios pueden ver el historico de los reportes de los propetarios de las mascotas.
