@@ -1,10 +1,10 @@
 # ProyectoCorte1Semestre3
-¿Cuáles son los tipos de usuarios que debe soportar la aplicación web?
+1) ¿Cuáles son los tipos de usuarios que debe soportar la aplicación web?
 
 Los funcionaios de la alcaldía  encargadas de visualizar el historico de registros,  hacer seguimientos, historicos de registros, distribución geográfica de las mascotas.
 También va a ir dirigida a los dueños de las mascota,  encargados de registrar las mascotas, actualizar la informacion de las mascotas o hacer reclamos.
 
-¿Cuáles son las funcionalidades concretas que deben ser construidas? 
+2) ¿Cuáles son las funcionalidades concretas que deben ser construidas?
 -La capacidad de registrar la informacion de las mascotas.
 #Microchip (en caso de que no tenga microchip, la identificación la realizará e l dueño de la mascota)
 #Especie.
@@ -28,3 +28,8 @@ Realizar actividadesde seguimiento de un mascota (identificandola por el microch
 -La capacidad de que los funcionarios puedan ver el historico de regitros de las mascotas (y su informacion detallada)
 -La capacidad de que los funcionario puedan ver el historico de las actividades de seguimiento de todos las mascotas
 -La capacidad de que los funcionarios pueden ver el historico de los reportes de los propetarios de las mascotas.
+
+3) Link de los diagramas de casos de uso, clases, secuencia, componentes, Mockups.
+https://drive.google.com/file/d/1VfnIA74AGjDyq43O0_oaxYhgyaX38_8W/view
+
+
